@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libraries/BaseGameUtils/BaseGameUtils.iml" filepath="$PROJECT_DIR$/libraries/BaseGameUtils/BaseGameUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOHunt.iml" filepath="$PROJECT_DIR$/IOHunt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IOHunt/IOHunt-IOHunt.iml" filepath="$PROJECT_DIR$/IOHunt/IOHunt-IOHunt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdgdevfesthunt-master.iml" filepath="$PROJECT_DIR$/gdgdevfesthunt-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
     </modules>
   </component>
 </project>
